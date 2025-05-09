@@ -1,0 +1,10 @@
+/* Responsividade */
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+    }
+
+    .recipe-list {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+}
