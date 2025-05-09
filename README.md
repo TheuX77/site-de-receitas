@@ -70,6 +70,8 @@ receitas-finas/
 
 ## 📸 Demonstração
 
+[<img src="src/img/tela-site-receita.gif" alt="gif da navegação do site de receitas">](https://theux77.github.io/site-de-receitas/)
+
 https://theux77.github.io/site-de-receitas/
 
 ---
